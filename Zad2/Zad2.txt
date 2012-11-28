@@ -1,0 +1,11 @@
+1)Jaki wzorzec projektowy zosta� zaprezentowany na diagramie?
+->Obserwator
+
+2)W jakich sytuacjach nale�y u�y� tego wzorca?
+->Obserwator jest stosowany w aplikacjach z graficznym interfejsem użytkownika. Rozpatrzmy mechanizm kopiowania pliku oraz okienko graficzne obrazujące postęp prac. Mechanizm kopiujący jest niezależny od okienka i nie musi wiedzieć czy i w jaki sposób postępy są wyświetlane. 
+
+3)W bazie chcemy przechowywa� dane dotycz�ce operator�w stacji meteorologicznych. (1 stacja mo�e posiada� kilka operator�w) 
+Zaprojektuj i zaimplementuj model logiczny takiego problemu, oraz stw�rz odpowiednie klasy s�u��ce do wykonywania operacji CRUD 
+na bazie danych na serwerze HyperSQL.
+
+4)Zaimplementuj testy jednostkowe do napisanych klas.
