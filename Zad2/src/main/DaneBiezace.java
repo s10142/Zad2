@@ -23,6 +23,6 @@ public class DaneBiezace implements Wyswietlanie
 		
 		public void wyswietlanie()
 		{
-			System.out.println("Dane bie¿¹ce: \n" + temp + " stopni C,\n" + wilg + " % wilgotnosci" + cisn + " atmosfer");
+			System.out.println("Dane bieÅ¼Ä…ce: \n" + temp + " stopni C,\n" + wilg + " % wilgotnosci" + cisn + " atmosfer");
 		}
 }
